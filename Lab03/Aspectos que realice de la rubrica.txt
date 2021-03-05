@@ -1,0 +1,46 @@
+Historia
+(30 puntos) [Criterio subjetivo] Según qué tan interesante sea la historía
+Paginas y Links 
+R//:Esta en todas
+
+(3 puntos) Por cada archivo diferente que forme parte de su historia, para un máximo de 30 puntos
+R// 13 archivos diferentes
+
+(1 punto) Por cada link diferente que forme parte de su historia, para un máximo de 20 puntos
+R//: 20 links
+
+(10 puntos) Si todos los archivos están intentados correctamente (se pueden ejecutar)
+Estructura
+R//Su criterio
+
+(10 puntos) Si todos los archivos tienen una estructura de html válida según https://validator.w3.org/
+Tags
+R//Si
+
+(5 puntos) por usar la tag de <article> de manera semánticamente correcta
+R//Si esta implementado
+
+(5 puntos) por usar las tags de <details> y <summary> de manera semánticamente correcta
+R//Estan implementados
+
+(5 puntos) por usar las tags de <figure>, <img> y <figcaption>
+R//estan implementados
+
+(5 puntos) por usar la de <header> y<footer> de manera semánticamente correcta
+R//estan implementados
+
+(5 puntos) por usar los tags básicos <a>, <b>,<body>,<br>,<div>,<h1>,<i>,<span>,<p>
+R//estan todos implementados
+
+(5 puntos) por usar los <ol> <ul> con sus respectivos items
+R//estan los dos implementados
+
+(10 puntos) por usar la tag de <progress> en todas las página
+R//si estan en todas
+
+Extra:
+(10 puntos) por usar la tag de <audio> <source> (Enlaces a un sitio externo.) en distintas paginas correctamente (que tenga sentido el audio conforme a la historia narrada)
+R//Se agrego en varias audio
+
+Si ven el video Benefits of Learning UX Design (Enlaces a un sitio externo.)  podrán tener 20 puntos, escriban un comentario y como creen que afecta en la interacción con los usuarios.
+R//se agrego una pagina con comentario
