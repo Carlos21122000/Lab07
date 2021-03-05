@@ -1,7 +1,7 @@
 # Lab07
 Carlos Alberto Raxtum 19721
 
-Lab3-> pagina que se entrego en el lab03  
+Lab03-> pagina que se entrego en el laboratorio 3 de HTMl  
 
 Laboratorio7-> carpeta que contiene todos los archivos de la pagina y su configuracion con webpack
 
